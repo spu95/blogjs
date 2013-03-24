@@ -1,4 +1,4 @@
 blogjs
 ======
 
-a blog created with nodejs
+This is a little sample that demonstrate the use of nodejs
